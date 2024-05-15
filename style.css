@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@font-face {
+    font-family: 'Roboto';
+    src: url('./Roboto-Regular.ttf');
+}
+p {
+  color: red;
+  width: 500px;
+}
+div {
+  background-color: yellow;
+}
+#page{ border:5px    dotted    green ;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px ;
+    padding: 1px 30px;
+    margin: 50px 70px 20px 60px;
+    font-size: 50px;
+    font-weight: 700px;
+    font-family: poppins;
+}
+/* khdgjgdjhgdjhghjwgjhsgdfjkbdjhjh */
+
+#blue{
+    color: blue;
+}
+#yellow{
+    color: yellow; 
+}
+#explore{
+    background-color: blue;
+    color:white;
+    padding: 10px;
+border:1px solid  green;
+font-size: 70px;
+
+}
+#explore:hover{
+    background-color: yellow;
+color:#7c38eb;
+cursor:pointer;
+}
